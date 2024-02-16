@@ -1,11 +1,11 @@
 {
-    "site_name": "mysite",
-    "site_slogon": "",
+    "site_name": "teedoc-test",
+    "site_slogon": "hello-sp5",
     "site_root_url": "/teedoc-test/",
-    "site_domain": "my_name.github.io",
+    "site_domain": "sheepfish5.github.io",
     "site_protocol": "https",
     "config_template_dir": "config",
-    "source": "https://github.com/my_name/my_name.github.io/blob/main",
+    "source": "https://github.com/sheepfish5/teedoc-test/blob/main",
     "route": {
         "docs": {
             "/get_started/zh/": "docs/get_started/zh"
